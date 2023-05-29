@@ -1,0 +1,38 @@
+.cabecalho{
+    font-family: monospace;
+    font-size: xx-large;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.fundo{
+    background-color: rgb(159, 113, 52);
+    width: 500;
+    height: 500;
+}
+
+.subTITULO{
+    font-family: monospace;
+    font-size: small;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 60px;
+    color: #f3f2f1;
+}
+
+.fundo1{
+        background-color: rgb(67, 40, 4);
+        width: 500;
+        height: 500;
+}
